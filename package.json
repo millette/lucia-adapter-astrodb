@@ -1,5 +1,5 @@
 {
-	"name": "lucia-adapter-astrodb",
+	"name": "@millette/lucia-adapter-astrodb",
 	"type": "module",
 	"version": "0.0.9",
 	"description": "Astro DB adapter for Lucia",
